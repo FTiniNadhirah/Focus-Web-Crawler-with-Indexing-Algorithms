@@ -7,3 +7,6 @@
 Tutorial and Installation Resources: 1)https://scrapy.org/
                                      2)https://www.anaconda.com/
                                      3)https://docs.scrapy.org/en/latest/
+
+Indexing algorithms: 1) Breadth First Search (BFS)
+                     2) PageRank
