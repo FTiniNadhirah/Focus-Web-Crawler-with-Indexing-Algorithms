@@ -10,3 +10,6 @@ Tutorial and Installation Resources: 1)https://scrapy.org/
 
 Indexing algorithms: 1) Breadth First Search (BFS)
                      2) PageRank
+
+
+© 2019 Fatini Nadhirah. All rights reserved
